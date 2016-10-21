@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1477047397 source:/home/duke/Projects/DBusTest/DBusTest/dbus.c
+	<dbus/dbus.h>
+	<stdbool.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1477047397 source:/home/duke/Projects/DBusTest/dbus.c
+	<dbus/dbus.h>
+	<stdbool.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
