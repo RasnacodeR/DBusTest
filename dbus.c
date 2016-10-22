@@ -186,6 +186,11 @@ void query(char* param)
    dbus_message_unref(msg);
 }
 
+void favaMethod()
+{
+   printf("Method fired");
+}
+
 void reply_to_method_call(DBusMessage* msg, DBusConnection* conn)
 {
    DBusMessage* reply;

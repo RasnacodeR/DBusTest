@@ -13,3 +13,10 @@
 	<stdio.h>
 	<stdlib.h>
 
+1477049599 source:/home/giulio/Projects/DBusTest/dbus.c
+	<dbus/dbus.h>
+	<stdbool.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
